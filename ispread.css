@@ -1,0 +1,16 @@
+.spread_container{
+    font-size: unset;
+}
+.ispread_main {
+    z-index: 10;
+    position: absolute;
+    background-color: #695;
+    width: 200px;
+    height: 100px;
+}
+.ispread {
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    background-color: aquamarine;
+}
