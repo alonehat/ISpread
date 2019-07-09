@@ -1,5 +1,5 @@
 .spread_container{
-    font-size: unset;
+    cursor:pointer;
 }
 .ispread_main {
     z-index: 10;
